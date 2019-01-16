@@ -1,0 +1,25 @@
+body{
+	padding: 2%;
+}
+td{
+	border: solid 1px black;
+	text-align: center;
+}
+.table{
+    position: relative;
+    width: 25%;
+    height: 25;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+.caption{
+	font-size: 25px;
+	font-weight: bold;
+	color: red;
+}
+.dayTd{
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+	color: blue;
+}
